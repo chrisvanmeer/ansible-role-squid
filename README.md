@@ -1,5 +1,14 @@
 # [squid](#squid)
 
+## Important note
+
+This is a fork of the robertdebock.squid role with added functionality, which
+has a slight tradeoff: the templates are a bit more complex. Hence that my
+pull request has not been merged. So I will maintain this outside of the
+upstream role.
+
+## Original text from robertdebock.squid role
+
 Install and configure squid on your system
 
 |GitHub|GitLab|Quality|Downloads|Version|
